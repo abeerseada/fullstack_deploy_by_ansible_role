@@ -1,4 +1,4 @@
-```markdown
+
 # Fullstack App Deployment using Ansible Role
 
 ## 📝 Overview
@@ -64,14 +64,4 @@ It will be copied to `/var/www/todo-app/` on the remote server automatically.
 
 **Abeer A. Mohamed**
 GitHub: [abeerseada](https://github.com/abeerseada)
-
----
-
-## ⚖️ License
-
-MIT
-
-```
-
----
 
