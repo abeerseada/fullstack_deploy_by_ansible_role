@@ -1,0 +1,5 @@
+- hosts: target
+  gather_facts: yes  
+  become: true
+  roles:
+    - roles/ansible-role-fullstack-deploy
