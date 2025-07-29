@@ -12,20 +12,6 @@ It utilizes a public role I created and published:
 
 ---
 
-## 📁 Project Structure
-
-```
-
-fullstack\_deploy\_by\_ansible\_role/
-├── playbook.yaml               # Main playbook to trigger the role
-├── inventory                  # Ansible inventory
-├── roles/
-│   └── (auto-installed Galaxy role goes here)
-
-````
-
----
-
 ## 📦 Role Installation
 
 First, install the role from Ansible Galaxy:
